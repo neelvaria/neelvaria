@@ -30,35 +30,14 @@ I'm a passionate **Python/Django Developer** with a deep interest in **Cybersecu
 
 ## Technical Skills
 
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
-  <div style="flex: 1; min-width: 200px; padding: 15px; background: #009688; color: white; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="margin-top: 0;">Programming Languages</h3>
-    <p>Python, JavaScript, Bash scripting</p>
-  </div>
-  <div style="flex: 1; min-width: 200px; padding: 15px; background: #f57c00; color: white; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="margin-top: 0;">Frameworks</h3>
-    <p>Django, Flask</p>
-  </div>
-  <div style="flex: 1; min-width: 200px; padding: 15px; background: #3f51b5; color: white; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="margin-top: 0;">Cybersecurity Tools</h3>
-    <p>NMAP, Netcat, Wireshark</p>
-  </div>
-</div>
-
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
-  <div style="flex: 1; min-width: 200px; padding: 15px; background: #8bc34a; color: white; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="margin-top: 0;">Database Management</h3>
-    <p>MySQL, PostgreSQL</p>
-  </div>
-  <div style="flex: 1; min-width: 200px; padding: 15px; background: #e91e63; color: white; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="margin-top: 0;">Version Control</h3>
-    <p>Git, GitHub</p>
-  </div>
-  <div style="flex: 1; min-width: 200px; padding: 15px; background: #00bcd4; color: white; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="margin-top: 0;">Operating Systems</h3>
-    <p>Windows, Kali Linux</p>
-  </div>
-</div>
+| **Category**            | **Skills**                      |
+|-------------------------|---------------------------------|
+| **Programming Languages** | Python, JavaScript, Bash scripting |
+| **Frameworks**           | Django                          |
+| **Cybersecurity Tools**  | NMAP, Netcat, Wireshark         |
+| **Database Management**  | MySQL, PostgreSQL               |
+| **Version Control**      | Git, GitHub                     |
+| **Operating Systems**    | Windows, Kali Linux             |
 
 ---
 
