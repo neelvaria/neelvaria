@@ -86,6 +86,7 @@ I'm a passionate **Python/Django Developer** with a deep interest in **Cybersecu
   </ul>
 </div>
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/3493707.png)](https://tryhackme.com/p/3493707)
+[![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/neelvaria08.png" alt="Your Image Badge" />
+)](https://tryhackme.com/p/3493707)
 
 ---
