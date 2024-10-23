@@ -86,4 +86,6 @@ I'm a passionate **Python/Django Developer** with a deep interest in **Cybersecu
   </ul>
 </div>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3493707" style='border:none;'></iframe>
+
 ---
