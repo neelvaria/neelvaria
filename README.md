@@ -54,11 +54,11 @@ I'm a passionate **Python/Django Developer** with a deep interest in **Cybersecu
 
 ## Certification
 
-| **Certification**            | **Organization from pursed **|
+| **Certification**            | **Organization from pursed** |
 |-------------------------|---------------------------------|
-| **Google Professional Cybersecurity **      | Coursera    |
-| **Digital Forensics Essentials **           | Coursera    |
-| **Cybersecurity Essentials **               | Coursera    |
+| **Google Professional Cybersecurity**      | Coursera    |
+| **Digital Forensics Essentials**           | Coursera    |
+| **Cybersecurity Essentials**               | Coursera    |
 ---
 
 ## Future Goals
