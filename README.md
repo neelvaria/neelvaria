@@ -20,9 +20,8 @@ I'm a passionate **Python/Django Developer** with a deep interest in **Cybersecu
 
 <div align="left" style="font-family: 'Fira Code', monospace; background: #282c34; color: #61dafb; padding: 10px; border-radius: 8px; box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);">
   <ul>
-    <li>EC-Council's <b>Ethical Hacking Essentials (EHE)</b> and <b>Digital Forensics Essentials (DFE)</b></li>
-    <li><b>Google's Cybersecurity Professional Certificate</b></li>
     <li>Implementing advanced <b>Django</b> features: Custom user management, email handling, and OTP verification.</li>
+    <li>Pursing CEH v13</li>
   </ul>
 </div>
 
@@ -51,6 +50,15 @@ I'm a passionate **Python/Django Developer** with a deep interest in **Cybersecu
   </ul>
 </div>
 
+---
+
+## Certification
+
+| **Certification**            | **Organization from pursed **|
+|-------------------------|---------------------------------|
+| **Google Professional Cybersecurity **      | Coursera    |
+| **Digital Forensics Essentials **           | Coursera    |
+| **Cybersecurity Essentials **               | Coursera    |
 ---
 
 ## Future Goals
@@ -85,8 +93,5 @@ I'm a passionate **Python/Django Developer** with a deep interest in **Cybersecu
     <li>🔗 <b>GitHub</b>: <a href="https://github.com/neelvaria" target="_blank">@neelvaria</a></li>
   </ul>
 </div>
-
-[![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/neelvaria08.png" alt="Your Image Badge" />
-)](https://tryhackme.com/p/3493707)
 
 ---
