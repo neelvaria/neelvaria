@@ -94,5 +94,9 @@ I'm a passionate **Python/Django Developer** with a deep interest in **Cybersecu
   </ul>
 </div>
 
+---
+🎖 TryHackMe Badge
+<p align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/neelvaria.png" alt="TryHackMe"> </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?neelvaria=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
